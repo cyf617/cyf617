@@ -5,13 +5,13 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyf617&bg_color=0d1117&color=8B949E&title_color=C8102E&line=C8102E&point=F97316&area=true&area_color=3D0A12&hide_border=true&radius=12&height=340&grid=true&custom_title=Commit%20activity%20%C2%B7%20last%2031%20days" alt="commit activity" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyf617&layout=compact&langs_count=8&hide_title=true&bg_color=0d1117&text_color=8B949E&title_color=C8102E&hide_border=true&card_width=600" alt="most used languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,typescript,react,git,github&theme=dark&perline=6" alt="stack" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyf617&bg_color=0d1117&color=8B949E&title_color=C8102E&line=C8102E&point=F97316&area=true&area_color=3D0A12&hide_border=true&radius=12&height=340&grid=true&custom_title=Commit%20activity%20%C2%B7%20last%2031%20days" alt="commit activity" />
 </div>
 
 <br/>
