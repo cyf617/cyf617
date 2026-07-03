@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyf617&bg_color=0d1117&color=8B949E&title_color=C8102E&line=C8102E&point=F97316&area=true&area_color=3D0A12&hide_border=true&radius=12&height=340&grid=true&custom_title=Evan%27s%20last%2031%20days%20contribution" alt="commit activity" />
+  <img src="https://github-readme-activity-graph-sable.vercel.app/graph?username=cyf617&bg_color=0d1117&color=8B949E&title_color=C8102E&line=C8102E&point=F97316&area=true&area_color=3D0A12&hide_border=true&radius=12&height=340&grid=true&custom_title=Evan%27s%20last%2031%20days%20contribution" alt="commit activity" style="max-width:100%;" />
 </div>
 
 <br/>
