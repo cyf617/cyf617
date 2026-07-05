@@ -15,8 +15,6 @@
 <br/>
 
 <div align="center">
-  <strong>Languages Used:</strong>
-  <br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -30,8 +28,6 @@
 <br/>
 
 <div align="center">
-  <strong>Contact:</strong>
-  <br/>
   <a href="mailto:yifanchen0726@gmail.com">
     <img src="https://img.shields.io/badge/yifanchen0726@gmail.com-C8102E?style=flat-square&logo=gmail&logoColor=white" alt="email" />
   </a>
