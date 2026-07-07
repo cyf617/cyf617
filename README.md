@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="60" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1200&color=C8102E&center=true&vCenter=true&repeat=true&width=680&lines=Welcome+Evan%27s+Space;AI+for+Sports;Trustworthy+AI;GenAI+for+Transport;You%27ll+Never+Walk+Alone%21" alt="typing" />
+  <img height="60" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1200&color=C8102E&center=true&vCenter=true&repeat=true&width=680&lines=Welcome+to+Evan%27s+Space;AI+for+Sports;Trustworthy+AI;GenAI+for+Transport;You%27ll+Never+Walk+Alone%21" alt="typing" />
 </div>
 
 <br/>
